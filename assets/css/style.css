@@ -1,0 +1,57 @@
+body {
+background-color: black;
+color: cornsilk;
+}
+
+h1 {
+text-align: center;
+}
+
+ul {
+ padding: 0px;   
+}
+div p{
+display: inline-block;
+width: 30%;
+padding-left: 10%;
+padding-right: 10%;
+padding-top: 5%;
+padding-bottom: 5%;
+margin: 0em;
+}
+.description {
+display: inline-block;
+width: 30%;
+padding-top: 60px;
+
+}
+.character {
+background-color: #1e1a13;
+text-align: center;
+padding-left: 0px;
+}
+
+.character h3{
+display: inline-block;
+width: 30%;
+
+}
+.phot { 
+    padding-left:150px;
+    }
+
+.photos {
+    width: 316px;
+    height: 202px;
+    display: inline-block;
+    text-align: center;
+   
+ }
+
+footer {
+    background-color: #1e1a13;
+    height: 100px;
+    padding: 40px;
+    text-align: center;
+
+}
